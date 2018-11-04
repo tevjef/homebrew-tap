@@ -1,9 +1,9 @@
 class GitJira < Formula
   desc ""
   homepage "https://github.com/tevjef/git-jira"
-  url "https://github.com/tevjef/git-jira/releases/download/v0.2.1/git-jira_0.2.1_macos_64-bit.tar.gz"
-  version "0.2.1"
-  sha256 "900abc255594670107af5d833226f4447ce35b3c0a5c1ed5a5583627e68b6394"
+  url "https://github.com/tevjef/git-jira/releases/download/v1.0.0/git-jira_1.0.0_macos_amd64.tar.gz"
+  version "1.0.0"
+  sha256 "daa12db0a714cdaab37ec36cb3cf5d4ad8f6d75bc2b53914bf050d433a6330b8"
   
   depends_on "git"
 
